@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rockville_Library",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Rockville Memorial Library" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -77.151964217440053, 39.086241551260677 ], [ -77.151976120506419, 39.086848607645685 ], [ -77.151309548789555, 39.086952759476446 ], [ -77.151226227324941, 39.08664327975076 ], [ -77.151223251558349, 39.08625345432705 ], [ -77.151964217440053, 39.086241551260677 ] ] ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Roads_GeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Road Name": "Beall Avenue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -77.151148857393508, 39.087107499339282 ], [ -77.152981929614896, 39.086854559178867 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Road Name": "North Washington Street" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -77.152978953848304, 39.086851583412269 ], [ -77.152943244649194, 39.085854701603559 ], [ -77.152937293116011, 39.085006608124509 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Road Name": "East Middle Lane" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -77.152934317349406, 39.0850095838911 ], [ -77.150961384098139, 39.085060171923182 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Road Name": "Maryland Avenue" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -77.151148857393508, 39.087107499339282 ], [ -77.151029826729783, 39.086551030986364 ], [ -77.150961384098139, 39.085066123456372 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Road Name": "Gibbs Street" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -77.152023732771895, 39.086985492908966 ], [ -77.151961241673447, 39.085173251053725 ], [ -77.152005878172346, 39.085033390023845 ] ] ] } }
+]
+}
